@@ -1,4 +1,5 @@
-###############################################
+#declare variable to represent mamximum number of events
+max_count = 50000
 
   # Execute search on remote Search Head instance
 
